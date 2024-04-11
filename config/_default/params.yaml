@@ -10,6 +10,7 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
+  model: system
 
 # SEO
 
@@ -34,7 +35,8 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    # align: l
+    align: "center"
     show_logo: true
     show_language: false
     show_day_night: true
@@ -45,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: "© {year} Tower's Blog. This work is licensed under {license} \n 湘ICP备2024040470号"
     license:
       enable: true
       allow_derivatives: false
@@ -55,9 +57,9 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+  date_format: '2006-01-02'
+  time_format: '15:04'
+  address_format: zh
 
 # Site features
 
