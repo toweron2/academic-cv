@@ -7,7 +7,7 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+Published
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 

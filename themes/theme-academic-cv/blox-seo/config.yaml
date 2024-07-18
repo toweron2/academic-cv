@@ -1,0 +1,10 @@
+sitemap:
+  changefreq: weekly
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: layouts
+      target: layouts
+  imports:
+    - path: ./theme-academic-cv/blox-core
