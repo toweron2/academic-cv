@@ -3,11 +3,11 @@
 title: tower
 
 # Name pronunciation (optional)
-name_pronunciation: ""
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: tower
-last_name: ""
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -17,77 +17,71 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 😊
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: toweron.top
-    url: https://toweron.top/
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "打工的路上误上了几年学"
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Golang
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: Software Engineering
-      institution: Private second tier university
-      year: 2024
-    - course: Software technology
-      institution: Public vocational college
-      year: 2022
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Golang
-        description: ""
-        percent: 80
-        icon: golang
-        icon_pack: fab
-      - name: Java
-        description: ""
-        percent: 60
-        icon: java
-        icon_pack: fab
       - name: Python
-        description: ""
-        percent: 40
+        description: ''
+        percent: 80
         icon: python
         icon_pack: fab
-      - name: SQL
-        description: ""
-        percent: 60
-        icon: database
-        icon_pack: fas
       - name: Data Science
-        description: ""
+        description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: database
+        icon_pack: fas
   - name: Hobbies
-    color: "#eeac02"
-    color_border: "#f0bf23"
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: Hiking
-        description: ""
+        description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
       - name: Cats
-        description: ""
+        description: ''
         percent: 100
         icon: cat
         icon_pack: fas
       - name: Photography
-        description: ""
+        description: ''
         percent: 80
         icon: camera-retro
         icon_pack: fas
@@ -99,19 +93,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "/#contact"
-  - icon: weixin
+    link: '/#contact'
+  - icon: twitter
     icon_pack: fab
-    link: 1446137304
+    link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
       header: true
-  - icon: qq
-    icon_pack: fab
-    link: https://github.com/toweron2
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/toweron2
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -123,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-街级开发者
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}

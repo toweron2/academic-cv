@@ -6,22 +6,28 @@
 main:
   - name: 首页
     url: '/home'
+    weight: 10
+  - name: Products
+    pageRef: /products
     weight: 20
+  - name: Services
+    pageRef: /services
+    weight: 30
   - name: 内容
     url: '/post'
-    weight: 30
+    weight: 40
   - name: 归档
     url: '/archive'
-    weight: 40
+    weight: 50
   - name: Publications
     url: '#featured'
-    weight: 50
+    weight: 60
   - name: 订阅
     url: '/subscribe'
-    weight: 60
+    weight: 70
   - name: 关于
-    url: '/about'
-    weight: 100
+    url: 'about/admin'
+    weight: 800
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
