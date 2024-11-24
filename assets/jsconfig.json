@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "..\\themes\\theme-academic-cv\\blox-bootstrap\\v5\\assets\\*"
+   ]
+  }
+ }
+}

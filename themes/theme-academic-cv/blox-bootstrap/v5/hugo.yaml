@@ -27,8 +27,8 @@ module:
     min: '0.123.3'
     extended: true
   imports:
-    - path: ./theme-academic-cv/blox-core
-    - path: ./theme-academic-cv/blox-seo
+    - path: theme-academic-cv/blox-core
+    - path: theme-academic-cv/blox-seo
   mounts:
     - source: content
       target: content

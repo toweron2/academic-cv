@@ -47,12 +47,12 @@ header:
 
 footer:
   copyright:
-    notice: "© {year} Tower's Blog. This work is licensed under {license} \n 湘ICP备2024040470号"
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    notice: "© {year} Tower's Blog. \n Powered by <a href='https://gohugo.io/'>Hugo</a>. Theme by <a href='https://github.com/HugoBlox/theme-academic-cv'>academic</a>  \n <a href='https://beian.miit.gov.cn/'>湘ICP备2024040470号</a>"
+    # license:
+    #   enable: true
+    #   allow_derivatives: false
+    #   share_alike: true
+    #   allow_commercial: false
     year:
       enable: true
       allow_derivatives: false

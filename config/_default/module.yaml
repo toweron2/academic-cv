@@ -5,6 +5,6 @@
 ############################
 
 imports:
-  - path: ./theme-academic-cv/blox-plugin-netlify
-  - path: ./theme-academic-cv/blox-plugin-reveal
-  - path: ./theme-academic-cv/blox-bootstrap/v5
+  - path: theme-academic-cv/blox-plugin-netlify
+  - path: theme-academic-cv/blox-plugin-reveal
+  - path: theme-academic-cv/blox-bootstrap/v5
